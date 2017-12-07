@@ -1,9 +1,9 @@
 #include <iostream>
-#include <functional>
 
 int main()
 {
-  [out = std::ref(std::cout << "Hello ")](){ out.get() << "World\n"; }();
+  std::cout << "Hello World" << std::endl;
+
   return 0;
 }
 
