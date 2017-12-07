@@ -1,0 +1,3 @@
+/home/guillem/git/cpp_starter_project/build/CMakeFiles/rebuild_cache.dir
+/home/guillem/git/cpp_starter_project/build/CMakeFiles/edit_cache.dir
+/home/guillem/git/cpp_starter_project/build/CMakeFiles/intro.dir
